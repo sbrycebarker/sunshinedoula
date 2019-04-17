@@ -1,1 +1,18 @@
 
+#hero {
+  height: 100vh;
+  background-color: white;
+  opacity: .2;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  border: 1px solid black;
+}
+
+#content {
+  height: 100vh;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
